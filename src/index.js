@@ -6,7 +6,7 @@
   import SearchBar from './components/search_bar';
   import VideoDetail from './components/video_detail';
 
-  const API_KEY = 'AIzaSyA67tbKmVzaG__n8cd_6goRqj9xyEPWbFQ';
+  const API_KEY = 'Introduce your API_KEY';
 
   class App extends Component {
 
